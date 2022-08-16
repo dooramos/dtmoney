@@ -79,7 +79,7 @@ yarn start
 <a href="https://opensource.org/licenses/MIT" rel="nofollow">
     <img alt="License" src="https://camo.githubusercontent.com/74b2743cdb46569f89bced8560a4e9172340d446cccf7764d088bf0ee578aed5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d6666353132663f7374796c653d666c61742d737175617265" data-canonical-src="https://img.shields.io/badge/license-MIT-ff512f?style=flat-square" style="max-width: 100%;">
 </a><br>
-<p>Esse projeto está sob a licença MIT. Veja o arquivo <a href="/martins-rafael/dtmoney/blob/main/LICENSE">LICENSE</a> para mais detalhes.</p>
+<p>Esse projeto está sob a licença MIT. Veja o arquivo <a href="/dooramos/dtmoney/blob/main/LICENSE">LICENSE</a> para mais detalhes.</p>
 <hr>
 <p>Feito com <g-emoji class="g-emoji" alias="orange_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e1.png">🧡</g-emoji> by <a href="https://github.com/dooramos">Eduardo Ramos</a>
  <br><br>
